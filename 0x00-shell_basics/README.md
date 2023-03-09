@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a script that delete all file in the current working directory
+Create a script that create the directory welcome/
