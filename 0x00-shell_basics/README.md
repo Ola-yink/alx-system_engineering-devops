@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a script that moves all files beginning with uppercase letter to the directory
+Create a script that delete all file in the current working directory
